@@ -84,7 +84,10 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ```
 
 ## OUTPUT:
-
+web page 
+![alt text](<Screenshot 2026-11-04 084540.png>)
+web server 
+![alt text]({61FC24B4-F0C9-4C11-9FBE-212EB5CA80A7}.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
