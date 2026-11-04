@@ -36,7 +36,52 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+```
+<html>
+    <head>
+        <title>Lap Spec</title>
+    </head>
+    <body>
+    SHAMINI BOOPATHI - 26016698
+        <table border="4">
+            <caption>
+                Lap Cofig
+            </caption>
+            <tr>
+                <th>SN</th>
+                <th>Category</th>
+                <th>Details</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Device Name</td>
+                <td>TL15-53M-G2</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Processor</td>
+                <td>Intel(R) Core(TM) 5 210H (2.20 GHz)</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Installed RAM</td>
+                <td>T6.0 GB (15.7 GB usable)</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Graphics Card</td>
+                <td>Intel(R) Graphics (128 MB)</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Stroage</td>
+                <td>104 GB of 477 GB used</td>
+            </tr>
 
+        </table>
+    </body>
+</html>
+```
 
 ## OUTPUT:
 
